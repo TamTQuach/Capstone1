@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+.DS_Store
+MGH_OLINK_COVID_Oct_12_2020.zip
+MGH_OLINK_COVID_Oct_12_2020/
